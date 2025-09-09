@@ -1,0 +1,10 @@
+langchain
+openai
+chromadb
+tiktoken
+fastapi
+uvicorn
+python-dotenv
+langchain-community
+torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers
